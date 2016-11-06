@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Yu-Gi-Oh-Deck-Downloader",
+  "description": "Download Yu-Gi-Oh decks from https://ocg.xpg.jp/ for 遊戯王ADS, YGOPro or DevPro.",
+  "version": "0.1",
+  "icons": {
+    "16": "src/icon16.png",
+    "48": "src/icon48.png",
+    "128": "src/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "src/icon.png"
+  },
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  },
+  "permissions": [
+	"tabs",
+    "activeTab",
+    "storage",
+	"contextMenus",
+	"downloads"
+  ]
+}
