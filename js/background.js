@@ -6,7 +6,7 @@ chrome.browserAction.onClicked.addListener(function (tab) {
 chrome.contextMenus.create({
     id: 'downloadDeck',
     title: 'Download Deck',
-    documentUrlPatterns: '*://ocg.xpg.jp/*',
+    documentUrlPatterns: ['*://ocg.xpg.jp/*'],
     contexts: ['all']
 });
 
