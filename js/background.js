@@ -64,6 +64,9 @@ function executeScript(id) {
         file: 'js/jquery-2.2.0.min.js'
     });
     chrome.tabs.executeScript(id, {
+        file: 'js/FileSaver.min.js'
+    });
+    chrome.tabs.executeScript(id, {
         file: 'js/deck-downloader.js'
     });
 }
