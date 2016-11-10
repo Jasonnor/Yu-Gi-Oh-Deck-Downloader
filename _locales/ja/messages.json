@@ -1,0 +1,10 @@
+{
+	"application_title": {
+		"message": "遊戯王デッキダウンローダ",
+		"description": "The title of the application, displayed in the web store."
+	},
+	"application_description": {
+		"message": "このアプリはocg.xpg.jpから遊戯王のデッキをダウンロードするのこどできます。ダウンロードしたフォーマットは遊戯王ADS（Automatic Dueling System）が使います、たどえばYGOProやDevPro", 
+		"description":"The description of the application, displayed in the web store."
+	}
+}

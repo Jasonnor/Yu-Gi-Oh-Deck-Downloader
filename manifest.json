@@ -1,8 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "Yu-Gi-Oh-Deck-Downloader",
-    "description": "Download Yu-Gi-Oh decks from ocg.xpg.jp for Automatic Dueling System(遊戯王ADS) like YGOPro or DevPro.",
-    "version": "0.3",
+    "name": "__MSG_application_title__",
+    "description": "__MSG_application_description__",
+	"default_locale": "en",
+    "version": "0.4",
     "icons": {
         "16": "src/icon16.png",
         "48": "src/icon48.png",
