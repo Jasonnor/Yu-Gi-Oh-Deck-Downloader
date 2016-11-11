@@ -8,10 +8,10 @@ Download Yu-Gi-Oh Decks from [ocg.xpg.jp](https://ocg.xpg.jp/deck/deck.fcgi) for
 
 ## Usage
 
-1. Download extension from [here](https://chrome.google.com/webstore/detail/yu-gi-oh-deck-downloader/omhigihagjbdeocmmopgdnklnfanpbka).
+1. Download extension [here](https://chrome.google.com/webstore/detail/yu-gi-oh-deck-downloader/omhigihagjbdeocmmopgdnklnfanpbka).
 2. Go to [ocg.xpg.jp](https://ocg.xpg.jp/deck/deck.fcgi) and enter the desired deck.
 3. Press the extension button in the upper-left corner, or right-click on page then select "Download Deck".
-4. Move the downloaded file to "[Your ADS directory]/deck/"
+4. Move the downloaded file(*.ydk) to "[Your ADS directory]/deck/"
 
 You will then be able to see the deck you just downloaded in the ADS deck edit screen.
 
