@@ -4,7 +4,7 @@
 		"description": "The title of the application, displayed in the web store."
 	},
 	"application_description": {
-		"message": "このアプリはocg.xpg.jpから遊戯王のデッキをダウンロードするのこどできます。ダウンロードしたフォーマットは遊戯王ADS（Automatic Dueling System）が使います、たどえばYGOProやDevPro", 
+		"message": "このアプリはocg.xpg.jpから遊戯王のデッキをダウンロードするのこどできます。ダウンロードしたフォーマットは遊戯王ADS（Automatic Dueling System）が使います、たどえばYGOPro、YGOcoreやDevPro", 
 		"description":"The description of the application, displayed in the web store."
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"application_title": {
-		"message": "游戏王YGOPro牌组下载器",
+		"message": "游戏王ADS牌组下载器",
 		"description": "The title of the application, displayed in the web store."
 	},
 	"application_description": {
-		"message": "快速下载ocg.xpg.jp上的任何游戏王牌组，提供YGOPro或DevPro等游戏王ADS软件使用", 
+		"message": "快速下载ocg.xpg.jp上的任何游戏王牌组，提供YGOPro、YGOcore或DevPro等游戏王ADS软件使用", 
 		"description":"The description of the application, displayed in the web store."
 	}
 }
