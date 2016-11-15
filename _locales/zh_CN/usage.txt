@@ -1,0 +1,15 @@
+﻿https://chrome.google.com/webstore/detail/yu-gi-oh-deck-downloader/omhigihagjbdeocmmopgdnklnfanpbka
+
+大家好，小弟写了一个简单的牌组下载Chrome扩展
+Yu-Gi-Oh-Deck-Downloader
+
+使用说明如下：
+1. 安装连结的扩展程序
+2. 前往 https://ocg.xpg.jp/deck/deck.fcgi
+3. 点选想要下载的牌组进入（例如：https://ocg.xpg.jp/deck/deck.fcgi?ListNo=268211）
+4. 点击浏览器右上角的「游戏王卡按钮」下载牌组，或者开启右键选单，然後点击「Download Deck」下载
+5. 将下载的*.ydk档案移至「YGOPro/deck/」目录内
+6. 开启YGOPro，就能看到刚才下载的牌组
+
+此扩展为开放原始码专案，目前功能其实相当阳春简单，如果有任何建议或Bug欢迎提issues或发送PR，非常感谢！
+https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader
