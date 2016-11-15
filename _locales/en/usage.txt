@@ -1,0 +1,15 @@
+﻿https://chrome.google.com/webstore/detail/yu-gi-oh-deck-downloader/omhigihagjbdeocmmopgdnklnfanpbka
+
+Hi all, I wrote a simple Chrome extension for downloading decks
+Yu-Gi-Oh-Deck-Downloader
+
+Use as follows:
+1. Install the linked Chrome extension
+2. Go to https://ocg.xpg.jp/deck/deck.fcgi
+3. Click on the deck you want to download (e.g., https://ocg.xpg.jp/deck/deck.fcgi?ListNo=268211)
+4. Click "Yu-Gi-Oh Card Button" in the upper right corner of the browser to download the deck, or open the right-click menu, and then click "Download Deck".
+5. Move the downloaded *.ydk file to the "YGOPro/deck/" directory
+6. Open YGOPro and you will see the downloaded deck
+
+This Chrome extension is an open-source project. It's actually quite simple. If you have any suggestions or bugs, please feel free to create issues or send a PR. Thanks a lot!
+https://github.com/Jasonnor/Yu-Gi-Oh-Deck-Downloader
